@@ -2,7 +2,7 @@
 
 ## Course Structure
 * __Week 1__
-    - History and Motivation
+    - [History and Motivation](./Week%201/1.%20History%20and%20Motivation.md)
     - Evolution and DL
     - Neural Nets
 * __Week 2__
@@ -55,7 +55,12 @@
     - Interface for latent-variable EBMs
     - Training latent-variable EBMs 
 
+## Desclaimer
+This is my personal repository containing my notes and solutions to the assignments of the course. I am not affiliated with NYU or Yann LeCun in any way, but am just a student learning from the content they provide. Any mistakes in the notes are mine and not the course's, so don't hesitate to correct it if you find any.
+
 __IN PROGRESS...__
 
 ## References
-[NYU Course](https://atcold.github.io/pytorch-Deep-Learning/)
+[NYU course repository](https://github.com/atcold/pytorch-Deep-Learning/)
+[NYU student-created notes on the course](https://atcold.github.io/pytorch-Deep-Learning/en/week01/01-1/)
+[Course lectures](https://youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
