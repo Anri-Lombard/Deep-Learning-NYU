@@ -5,7 +5,7 @@
 - History and Motivation
 - Evolution and DL
 - Neural Nets
-#### Week 2
+#### [Week 2](Week%202/)
 - SGD and backpropagation
 - Backprop in practice
 - NN training
