@@ -1,8 +1,8 @@
 # NYU Deep Learning Course by Yann LeCun
 
 ## Course Structure
-#### Week 1
-- [History and Motivation](./Week%201/1.%20History%20and%20Motivation.md)
+#### [Week 1](Week%201/)
+- History and Motivation
 - Evolution and DL
 - Neural Nets
 #### Week 2
