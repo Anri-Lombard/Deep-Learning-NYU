@@ -56,7 +56,7 @@
 - Training latent-variable EBMs 
 
 ## Desclaimer
-This is my personal repository containing my notes and solutions to the assignments of the course. I am not affiliated with NYU or Yann LeCun in any way, but am just a student learning from the content they provide. Any mistakes in the notes are mine and not the course's, so don't hesitate to correct it if you find any.
+This is my personal repository containing my notes and solutions to the assignments of the course. I am not affiliated with NYU or Yann LeCun in any way, but am just a student learning from the content they provide. Any mistakes in the solutions are mine and not the course's, so don't hesitate to correct it if you find any.
 
 __IN PROGRESS...__
 
