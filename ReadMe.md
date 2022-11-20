@@ -13,13 +13,13 @@
 - Parameter transformation
 - Convolutional Nets
 - Natural signals' properties
-#### Week 4
+#### [Week 4](Week%204/)
 - 1 Dimentionsal Convolutional Nets
-#### Week 5
+#### [Week 5](Week%205/)
 - Optimization
 - Autograd
 - CNNs (again)
-#### Week 6
+#### [Week 6](Week%206/)
 - CNN applications
 - Recurrent Nets and attention
 - Training Recurrent Nets
@@ -62,5 +62,5 @@ __IN PROGRESS...__
 
 ## References
 * [NYU course repository](https://github.com/atcold/pytorch-Deep-Learning/)
-* [NYU student-created notes on the course](https://atcold.github.io/pytorch-Deep-Learning/en/week01/01-1/)
+* [NYU course website](https://atcold.github.io/pytorch-Deep-Learning/en/week01/01-1/)
 * [Course lectures](https://youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
