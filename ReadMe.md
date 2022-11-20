@@ -9,7 +9,7 @@
 - SGD and backpropagation
 - Backprop in practice
 - NN training
-#### Week 3
+#### [Week 3](Week%203/)
 - Parameter transformation
 - Convolutional Nets
 - Natural signals' properties
