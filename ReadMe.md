@@ -13,9 +13,9 @@
 - Parameter transformation
 - Convolutional Nets
 - Natural signals' properties
-#### Week 4
+#### [Week 4](Week%204/)
 - 1 Dimentionsal Convolutional Nets
-#### Week 5
+#### [Week 5](Week%205/)
 - Optimization
 - Autograd
 - CNNs (again)
