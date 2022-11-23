@@ -27,7 +27,7 @@
 - Energy-based models
 - Self-supervised learning (SSL), Explainable Boosting Machines (EBM)
 - Autoencoders
-#### Week 8
+#### [Week 8](Week%208/)
 - Contrastive methods
 - Regularised latent
 - Training Variable Autoencoders
@@ -55,7 +55,7 @@
 - Interface for latent-variable EBMs
 - Training latent-variable EBMs 
 
-## Desclaimer
+## Disclaimer
 This is my personal repository containing my notes and solutions to the assignments of the course. I am not affiliated with NYU or Yann LeCun in any way, but am just a student learning from the content they provide. Any mistakes in the solutions are mine and not the course's, so don't hesitate to correct it if you find any.
 
 __IN PROGRESS...__
