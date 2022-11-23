@@ -23,7 +23,7 @@
 - CNN applications
 - Recurrent Nets and attention
 - Training Recurrent Nets
-#### Week 7
+#### [Week 7](Week%207/)
 - Energy-based models
 - Self-supervised learning (SSL), Explainable Boosting Machines (EBM)
 - Autoencoders
