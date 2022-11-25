@@ -31,7 +31,7 @@
 - Contrastive methods
 - Regularised latent
 - Training Variable Autoencoders
-#### Week 9
+#### [Week 9](Week%209/)
 - Sparsity
 - World models, Generative Adversarial Networks (GANs)
 - Training GANs
