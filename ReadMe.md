@@ -35,14 +35,14 @@
 - Sparsity
 - World models, Generative Adversarial Networks (GANs)
 - Training GANs
-#### Week 10
+#### [Week 10](Week%2010/)
 - CV SSL
 - Predictive Control
-#### Week 11
+#### [Week 11](Week%2011/)
 - Activations
 - Losses
 - PPUU
-#### Week 12
+#### [Week 12](Week%2012/)
 - Deep Learning for Natural Language Processing (NLP)
 - Attention and transformers
 #### Week 13
