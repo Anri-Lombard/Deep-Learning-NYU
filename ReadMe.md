@@ -47,18 +47,16 @@
 - Attention and transformers
 #### [Week 13](Week%2013/)
 - Graph Convolutional Networks (GCNs)
-#### Week 14
+#### [Week 14](Week%2014/)
 - Structured prediction
 - Graphical Methods
 - Regularization and Bayesian methods
-#### Week 15
+#### [Week 15](Week%2015/)
 - Interface for latent-variable EBMs
 - Training latent-variable EBMs 
 
 ## Disclaimer
 This is my personal repository containing my notes and solutions to the assignments of the course. I am not affiliated with NYU or Yann LeCun in any way, but am just a student learning from the content they provide. Any mistakes in the solutions are mine and not the course's, so don't hesitate to correct it if you find any.
-
-__IN PROGRESS...__
 
 ## References
 * [NYU course repository](https://github.com/atcold/pytorch-Deep-Learning/)
