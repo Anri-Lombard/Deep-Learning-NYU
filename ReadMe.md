@@ -45,7 +45,7 @@
 #### [Week 12](Week%2012/)
 - Deep Learning for Natural Language Processing (NLP)
 - Attention and transformers
-#### Week 13
+#### [Week 13](Week%2013/)
 - Graph Convolutional Networks (GCNs)
 #### Week 14
 - Structured prediction
