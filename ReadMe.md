@@ -1,3 +1,5 @@
+
+
 # NYU Deep Learning Course by Yann LeCun
 
 ## Course Structure
@@ -14,7 +16,7 @@
 - Convolutional Nets
 - Natural signals' properties
 #### [Week 4](Week%204/)
-- 1 Dimentionsal Convolutional Nets
+- 1 Dimensional Convolutional Nets
 #### [Week 5](Week%205/)
 - Optimization
 - Autograd
