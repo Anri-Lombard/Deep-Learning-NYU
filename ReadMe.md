@@ -60,6 +60,7 @@ All course material (lectures, slides, and the original notebooks) is by Yann Le
 Center for Data Science, released under
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) in [Atcold/NYU-DLSP20](https://github.com/Atcold/NYU-DLSP20).
 The Week 9 DCGAN script is from [pytorch/examples](https://github.com/pytorch/examples/tree/main/dcgan).
+This repository is shared under the same licence, CC BY-NC-SA 4.0 (see [LICENSE](LICENSE)).
 
 I'm not affiliated with NYU, Yann LeCun or Alfredo Canziani; this is just a student's record of learning from the
 material they generously made public. Any mistakes in the solutions are mine, so feel free to open an issue if you spot one.
